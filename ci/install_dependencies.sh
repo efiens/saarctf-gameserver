@@ -36,5 +36,6 @@ npm run build
 # Install and build the scoreboard
 pushd scoreboard
 npm install
+npm i -g ansi-colors
 npm run build
 popd
